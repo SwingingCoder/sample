@@ -2,3 +2,5 @@ sample
 ======
 
 サンプルです。
+
+Hello,world.
